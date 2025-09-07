@@ -1,7 +1,0 @@
-{
-    "name": "sat/xml",
-    "type": "project",
-    "require": {
-        "phpcfdi/sat-ws-descarga-masiva": "^1.1"
-    }
-}
