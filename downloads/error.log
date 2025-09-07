@@ -1,0 +1,1162 @@
+2025-05-07 15:50:46 - Error: La FIEL no es válida
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 155
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SEROMA12
+            [fechaInicio] => 2025-05-01T09:17
+            [fechaFin] => 2025-05-07T09:17
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => egreso
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.cer
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpePOrDL
+                    [error] => 0
+                    [size] => 1604
+                )
+
+            [llave] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.key
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpz8B3EM
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 15:51:28 - Error: La FIEL no es válida
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 155
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SEROMA12
+            [fechaInicio] => 2025-05-01T09:17
+            [fechaFin] => 2025-05-07T09:17
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => egreso
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.cer
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpstoYoM
+                    [error] => 0
+                    [size] => 1604
+                )
+
+            [llave] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.key
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpjQFcGP
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 15:54:10 - Error: La FIEL no es válida
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 163
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SEROMA12
+            [fechaInicio] => 2025-05-01T09:17
+            [fechaFin] => 2025-05-07T09:17
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => egreso
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.cer
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpXqFy1l
+                    [error] => 0
+                    [size] => 1604
+                )
+
+            [llave] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.key
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpMLAJ8l
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 16:05:29 - Error: session_start(): Session cannot be started after headers have already been sent
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 270
+    [trace] => #0 [internal function]: handleError()
+#1 /var/www/html/wsat/procesar.php(270): session_start()
+#2 {main}
+    [request] => Array
+        (
+            [password] => SIC15120
+            [fechaInicio] => 2024-01-01T00:00
+            [fechaFin] => 2024-01-30T23:00
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => xml
+            [tipoComprobante] => undefined
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => 00001000000708773622.cer
+                    [full_path] => 00001000000708773622.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phplZUD1h
+                    [error] => 0
+                    [size] => 1690
+                )
+
+            [llave] => Array
+                (
+                    [name] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [full_path] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpOIq1Al
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 16:05:35 - Error: session_start(): Session cannot be started after headers have already been sent
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 270
+    [trace] => #0 [internal function]: handleError()
+#1 /var/www/html/wsat/procesar.php(270): session_start()
+#2 {main}
+    [request] => Array
+        (
+            [password] => SIC15120
+            [fechaInicio] => 2024-01-01T00:00
+            [fechaFin] => 2024-01-30T23:00
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => xml
+            [tipoComprobante] => undefined
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => 00001000000708773622.cer
+                    [full_path] => 00001000000708773622.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpX7Grzi
+                    [error] => 0
+                    [size] => 1690
+                )
+
+            [llave] => Array
+                (
+                    [name] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [full_path] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpuNuwDh
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 16:16:56 - Error: Error al crear la FIEL: La FIEL no es válida. Error al verificar el certificado: openssl_x509_read(): X.509 Certificate cannot be retrieved. La llave privada no es válida o la contraseña es incorrecta
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 199
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SEROMA12
+            [fechaInicio] => 2025-05-01T09:17
+            [fechaFin] => 2025-05-07T09:17
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => egreso
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.cer
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpq2kxDH
+                    [error] => 0
+                    [size] => 1604
+                )
+
+            [llave] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.key
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpfuGnwJ
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 16:17:02 - Error: Error al crear la FIEL: La FIEL no es válida. Error al verificar el certificado: openssl_x509_read(): X.509 Certificate cannot be retrieved. La llave privada no es válida o la contraseña es incorrecta
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 199
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SEROMA12
+            [fechaInicio] => 2025-05-01T09:17
+            [fechaFin] => 2025-05-07T09:17
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => egreso
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.cer
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpstwBQM
+                    [error] => 0
+                    [size] => 1604
+                )
+
+            [llave] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.key
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpnlFBBO
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 16:22:14 - Error: Error al presentar la consulta: Se han agotado las solicitudes de por vida
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 269
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SIC15120
+            [fechaInicio] => 2024-01-01T00:00
+            [fechaFin] => 2024-01-30T23:00
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => xml
+            [tipoComprobante] => undefined
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => 00001000000708773622.cer
+                    [full_path] => 00001000000708773622.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpIKI1EK
+                    [error] => 0
+                    [size] => 1690
+                )
+
+            [llave] => Array
+                (
+                    [name] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [full_path] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpLvFinL
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 16:22:25 - Error: Cannot modify header information - headers already sent by (output started at /var/www/html/wsat/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:138)
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 54
+    [trace] => #0 [internal function]: handleError()
+#1 /var/www/html/wsat/procesar.php(54): header()
+#2 /var/www/html/wsat/procesar.php(281): sendJsonResponse()
+#3 {main}
+    [request] => Array
+        (
+            [password] => SIC15120
+            [fechaInicio] => 2024-01-01T00:00
+            [fechaFin] => 2024-01-30T22:00
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => xml
+            [tipoComprobante] => undefined
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => 00001000000708773622.cer
+                    [full_path] => 00001000000708773622.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phponG2hJ
+                    [error] => 0
+                    [size] => 1690
+                )
+
+            [llave] => Array
+                (
+                    [name] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [full_path] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpkNh62F
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 16:23:51 - Error: Cannot modify header information - headers already sent by (output started at /var/www/html/wsat/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:138)
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 54
+    [trace] => #0 [internal function]: handleError()
+#1 /var/www/html/wsat/procesar.php(54): header()
+#2 /var/www/html/wsat/procesar.php(281): sendJsonResponse()
+#3 {main}
+    [request] => Array
+        (
+            [password] => SIC15120
+            [fechaInicio] => 2024-01-01T00:00
+            [fechaFin] => 2024-01-30T22:00
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => xml
+            [tipoComprobante] => undefined
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => 00001000000708773622.cer
+                    [full_path] => 00001000000708773622.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpbjZSWp
+                    [error] => 0
+                    [size] => 1690
+                )
+
+            [llave] => Array
+                (
+                    [name] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [full_path] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpjKEwfr
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 16:46:56 - Error: Error al presentar la consulta: Se han agotado las solicitudes de por vida
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 269
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SIC15120
+            [fechaInicio] => 2024-01-01T00:00
+            [fechaFin] => 2024-01-30T22:00
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => xml
+            [tipoComprobante] => undefined
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => 00001000000708773622.cer
+                    [full_path] => 00001000000708773622.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/php7LINRM
+                    [error] => 0
+                    [size] => 1690
+                )
+
+            [llave] => Array
+                (
+                    [name] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [full_path] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpVV5bkN
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 16:46:59 - Error: Error al presentar la consulta: Se han agotado las solicitudes de por vida
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 269
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SIC15120
+            [fechaInicio] => 2024-01-01T00:00
+            [fechaFin] => 2024-01-30T22:00
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => xml
+            [tipoComprobante] => undefined
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => 00001000000708773622.cer
+                    [full_path] => 00001000000708773622.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpKZKpYN
+                    [error] => 0
+                    [size] => 1690
+                )
+
+            [llave] => Array
+                (
+                    [name] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [full_path] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpEfL3HM
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 16:59:19 - Error: Error al presentar la consulta: Se han agotado las solicitudes de por vida
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 269
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SIC15120
+            [fechaInicio] => 2024-01-01T00:00
+            [fechaFin] => 2024-01-30T22:00
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => xml
+            [tipoComprobante] => undefined
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => 00001000000708773622.cer
+                    [full_path] => 00001000000708773622.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpoN39Mc
+                    [error] => 0
+                    [size] => 1690
+                )
+
+            [llave] => Array
+                (
+                    [name] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [full_path] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpgjveWc
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 16:59:23 - Error: Error al presentar la consulta: Se han agotado las solicitudes de por vida
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 269
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SIC15120
+            [fechaInicio] => 2024-01-01T00:00
+            [fechaFin] => 2024-01-30T22:00
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => xml
+            [tipoComprobante] => undefined
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => 00001000000708773622.cer
+                    [full_path] => 00001000000708773622.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpJmutsb
+                    [error] => 0
+                    [size] => 1690
+                )
+
+            [llave] => Array
+                (
+                    [name] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [full_path] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php6CNmIb
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 16:59:26 - Error: Cannot modify header information - headers already sent by (output started at /var/www/html/wsat/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:138)
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 54
+    [trace] => #0 [internal function]: handleError()
+#1 /var/www/html/wsat/procesar.php(54): header()
+#2 /var/www/html/wsat/procesar.php(281): sendJsonResponse()
+#3 {main}
+    [request] => Array
+        (
+            [password] => SIC15120
+            [fechaInicio] => 2024-01-01T00:00
+            [fechaFin] => 2024-01-30T22:00
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => undefined
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => 00001000000708773622.cer
+                    [full_path] => 00001000000708773622.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpSOV5yd
+                    [error] => 0
+                    [size] => 1690
+                )
+
+            [llave] => Array
+                (
+                    [name] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [full_path] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpSypAVa
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 16:59:33 - Error: Cannot modify header information - headers already sent by (output started at /var/www/html/wsat/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:138)
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 54
+    [trace] => #0 [internal function]: handleError()
+#1 /var/www/html/wsat/procesar.php(54): header()
+#2 /var/www/html/wsat/procesar.php(281): sendJsonResponse()
+#3 {main}
+    [request] => Array
+        (
+            [password] => SIC15120
+            [fechaInicio] => 2024-01-01T00:00
+            [fechaFin] => 2024-01-30T22:00
+            [tipoDescarga] => emitidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => undefined
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => 00001000000708773622.cer
+                    [full_path] => 00001000000708773622.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpZ7EKvs
+                    [error] => 0
+                    [size] => 1690
+                )
+
+            [llave] => Array
+                (
+                    [name] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [full_path] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/php3qUyHt
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 17:37:54 - Error: Cannot modify header information - headers already sent by (output started at /var/www/html/wsat/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:138)
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 54
+    [trace] => #0 [internal function]: handleError()
+#1 /var/www/html/wsat/procesar.php(54): header()
+#2 /var/www/html/wsat/procesar.php(281): sendJsonResponse()
+#3 {main}
+    [request] => Array
+        (
+            [password] => SIC15120
+            [fechaInicio] => 2024-01-01T00:00
+            [fechaFin] => 2024-01-30T22:00
+            [tipoDescarga] => emitidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => undefined
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => 00001000000708773622.cer
+                    [full_path] => 00001000000708773622.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpeH9tcR
+                    [error] => 0
+                    [size] => 1690
+                )
+
+            [llave] => Array
+                (
+                    [name] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [full_path] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpfD3OER
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 17:37:57 - Error: Cannot modify header information - headers already sent by (output started at /var/www/html/wsat/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:138)
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 54
+    [trace] => #0 [internal function]: handleError()
+#1 /var/www/html/wsat/procesar.php(54): header()
+#2 /var/www/html/wsat/procesar.php(281): sendJsonResponse()
+#3 {main}
+    [request] => Array
+        (
+            [password] => SIC15120
+            [fechaInicio] => 2024-01-01T00:00
+            [fechaFin] => 2024-01-30T22:00
+            [tipoDescarga] => emitidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => undefined
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => 00001000000708773622.cer
+                    [full_path] => 00001000000708773622.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpy56yyT
+                    [error] => 0
+                    [size] => 1690
+                )
+
+            [llave] => Array
+                (
+                    [name] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [full_path] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpkj375S
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 23:31:48 - Error: Error al crear la FIEL: La FIEL no es válida. Error al verificar el certificado: openssl_x509_read(): X.509 Certificate cannot be retrieved. La llave privada no es válida o la contraseña es incorrecta
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 183
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SEROMA12
+            [fechaInicio] => 2025-05-01T09:17
+            [fechaFin] => 2025-05-07T09:17
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => egreso
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.cer
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpe7hgTL
+                    [error] => 0
+                    [size] => 1604
+                )
+
+            [llave] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.key
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phphCHtdO
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 23:33:24 - Error: Error al crear la FIEL: La FIEL no es válida. Error al verificar el certificado: openssl_x509_read(): X.509 Certificate cannot be retrieved. La llave privada no es válida o la contraseña es incorrecta
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 183
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SEROMA12
+            [fechaInicio] => 2025-05-01T17:33
+            [fechaFin] => 2025-05-07T17:33
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => egreso
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.cer
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpJqzsCM
+                    [error] => 0
+                    [size] => 1604
+                )
+
+            [llave] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.key
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpxK1V3K
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 23:37:11 - Error: Error al crear la FIEL: La FIEL no es válida. Error al verificar el certificado: openssl_x509_read(): X.509 Certificate cannot be retrieved. La llave privada no es válida o la contraseña es incorrecta
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 190
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SEROMA12
+            [fechaInicio] => 2025-05-01T17:33
+            [fechaFin] => 2025-05-07T17:33
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => egreso
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.cer
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpH2qMHl
+                    [error] => 0
+                    [size] => 1604
+                )
+
+            [llave] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.key
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpazcSBi
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 23:42:50 - Error: Error al crear la FIEL: La FIEL no es válida. Error al verificar el certificado: openssl_x509_read(): X.509 Certificate cannot be retrieved. La llave privada no es válida o la contraseña es incorrecta
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 190
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SEROMA12
+            [fechaInicio] => 2025-05-01T17:33
+            [fechaFin] => 2025-05-07T17:33
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => egreso
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.cer
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpS9i6AU
+                    [error] => 0
+                    [size] => 1604
+                )
+
+            [llave] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.key
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpeRT5PS
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 23:57:23 - Error: Cannot modify header information - headers already sent by (output started at /var/www/html/wsat/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:138)
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 65
+    [trace] => #0 [internal function]: handleError()
+#1 /var/www/html/wsat/procesar.php(65): header()
+#2 /var/www/html/wsat/procesar.php(272): sendJsonResponse()
+#3 {main}
+    [request] => Array
+        (
+            [password] => SIC15120
+            [fechaInicio] => 2024-01-01T00:00
+            [fechaFin] => 2024-01-30T11:00
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => undefined
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => 00001000000708773622.cer
+                    [full_path] => 00001000000708773622.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/php71PVkb
+                    [error] => 0
+                    [size] => 1690
+                )
+
+            [llave] => Array
+                (
+                    [name] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [full_path] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpR6Vm1c
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-07 23:57:51 - Error: Cannot modify header information - headers already sent by (output started at /var/www/html/wsat/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:138)
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 65
+    [trace] => #0 [internal function]: handleError()
+#1 /var/www/html/wsat/procesar.php(65): header()
+#2 /var/www/html/wsat/procesar.php(272): sendJsonResponse()
+#3 {main}
+    [request] => Array
+        (
+            [password] => SIC15120
+            [fechaInicio] => 2024-01-01T00:00
+            [fechaFin] => 2024-01-30T11:00
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => undefined
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => 00001000000708773622.cer
+                    [full_path] => 00001000000708773622.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpCvzMKj
+                    [error] => 0
+                    [size] => 1690
+                )
+
+            [llave] => Array
+                (
+                    [name] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [full_path] => Claveprivada_FIEL_SIC151208IC6_20240718_203526.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpiMDjAl
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-08 13:46:17 - Error: Error al crear la FIEL: La FIEL no es válida. Error al verificar el certificado: openssl_x509_read(): X.509 Certificate cannot be retrieved. La llave privada no es válida o la contraseña es incorrecta
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 190
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SEROMA12
+            [fechaInicio] => 2025-05-01T17:33
+            [fechaFin] => 2025-05-07T17:33
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => egreso
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.cer
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpJlFSst
+                    [error] => 0
+                    [size] => 1604
+                )
+
+            [llave] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.key
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phpOscAKs
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-08 13:52:46 - Error: Error al crear la FIEL: La FIEL no es válida. Error al verificar el certificado: openssl_x509_read(): X.509 Certificate cannot be retrieved. La llave privada no es válida o la contraseña es incorrecta
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 190
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => SEROMA12
+            [fechaInicio] => 2025-05-01T17:33
+            [fechaFin] => 2025-05-07T17:33
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => egreso
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.cer
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/php4KM0AR
+                    [error] => 0
+                    [size] => 1604
+                )
+
+            [llave] => Array
+                (
+                    [name] => SIC240328GN2SSGINFRA__CSD.key
+                    [full_path] => SIC240328GN2SSGINFRA__CSD.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phptEha6N
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
+2025-05-08 22:18:45 - Error: Error al crear la FIEL: Certificate does not belong to private key
+Detalles: Array
+(
+    [file] => /var/www/html/wsat/procesar.php
+    [line] => 190
+    [trace] => #0 {main}
+    [request] => Array
+        (
+            [password] => 12345678a
+            [fechaInicio] => 2025-05-02T16:18
+            [fechaFin] => 2025-05-08T16:18
+            [tipoDescarga] => recibidos
+            [tipoSolicitud] => metadata
+            [tipoComprobante] => egreso
+        )
+
+    [files] => Array
+        (
+            [certificado] => Array
+                (
+                    [name] => CSD_Sucursal_1_CACX7605101P8_20230509_130254.cer
+                    [full_path] => CSD_Sucursal_1_CACX7605101P8_20230509_130254.cer
+                    [type] => application/x-x509-ca-cert
+                    [tmp_name] => /tmp/phpkm3pkM
+                    [error] => 0
+                    [size] => 1411
+                )
+
+            [llave] => Array
+                (
+                    [name] => CSD_Sucursal_2_CACX7605101P8_20230509_130255.key
+                    [full_path] => CSD_Sucursal_2_CACX7605101P8_20230509_130255.key
+                    [type] => application/octet-stream
+                    [tmp_name] => /tmp/phplPX7LI
+                    [error] => 0
+                    [size] => 1298
+                )
+
+        )
+
+)
+
