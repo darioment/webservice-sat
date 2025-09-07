@@ -4,6 +4,18 @@
  * Basado en la librería phpcfdi/sat-ws-descarga-masiva
  */
 
+// Configurar headers CORS
+header('Access-Control-Allow-Origin: http://localhost:5173');
+header('Access-Control-Allow-Methods: GET, POST, OPTIONS');
+header('Access-Control-Allow-Headers: Content-Type, Authorization');
+header('Access-Control-Allow-Credentials: true');
+
+// Manejar solicitudes OPTIONS (preflight)
+if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+    http_response_code(200);
+    exit();
+}
+
 // Habilitar reporte de errores
 error_reporting(E_ALL);
 ini_set('display_errors', 1);

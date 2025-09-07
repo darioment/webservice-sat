@@ -1,0 +1,21 @@
+{
+    "name": "sat/api-backend",
+    "type": "project",
+    "description": "SAT API Backend - Servicio de autenticación con el SAT usando FIEL",
+    "require": {
+        "phpcfdi/sat-ws-descarga-masiva": "^1.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SatApi\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "SatApi\\Tests\\": "tests/"
+        }
+    }
+}
